@@ -1,2 +1,5 @@
 # vision_grupo 
-Jorge Iván Sepúlveda Henao
+Grupo de visión por computador 
+
+Mi trabajo es ayudar a graduar a Oscar 
+Labeling tool 
